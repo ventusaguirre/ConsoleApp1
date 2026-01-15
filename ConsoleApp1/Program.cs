@@ -8,6 +8,7 @@ namespace Comp003A
         {
             Console.WriteLine("Hello, People!");
             Console.WriteLine("I'm tired.");
+            Console.WriteLine("I need to take a nap!");
         }
     }
 }
