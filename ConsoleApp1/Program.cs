@@ -7,7 +7,7 @@ namespace Comp003A
         static void Main(string[] args)
         {
             Console.WriteLine("Hello, People!");
-            Console.WriteLine("I'm hungry!");
+            Console.WriteLine("I'm tired.");
         }
     }
 }
